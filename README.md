@@ -1,6 +1,6 @@
-# AI/ML Research & Complex Systems Projects
+# AI/ML, Robotics & Complex Systems Projects
 
-This repository showcases applied research and engineering work at the intersection of artificial intelligence, machine learning, and complex systems science.
+This repository showcases applied research and engineering work at the intersection of artificial intelligence, machine learning, robotics, and complex systems science.
 
 ## Research Focus
 
@@ -11,6 +11,10 @@ Developing and optimizing large language models through custom training pipeline
 ### Multi-Agent Simulation & Agentic Systems
 
 Building sophisticated multi-agent environments where autonomous agents interact, learn, and evolve. Exploring emergent behaviors, coordination mechanisms, and scalable architectures for agentic systems.
+
+### Robotics & Embodied AI
+
+Developing robot control systems, perception pipelines, and motion planning algorithms. Integrating AI with physical systems for manipulation, navigation, and human-robot interaction. Exploring embodied intelligence through simulation and real-world robotics platforms.
 
 ### AI × Economics × Token Engineering
 
@@ -30,7 +34,7 @@ Each project directory contains:
 
 ## Technical Stack
 
-Projects leverage modern ML/AI frameworks including PyTorch, Transformers, JAX, and specialized tools for agent-based modeling, simulation, and distributed training.
+Projects leverage modern ML/AI frameworks including PyTorch, Transformers, JAX, robotics frameworks such as ROS/ROS2, MoveIt, Gazebo, PyBullet, and specialized tools for agent-based modeling, simulation, and distributed training.
 
 ## Approach
 
@@ -42,4 +46,4 @@ Work emphasizes:
 
 ---
 
-*Exploring the frontiers of intelligent systems and complex adaptive behaviors*
+*Exploring the frontiers of intelligent systems, robotics, and complex adaptive behaviors*

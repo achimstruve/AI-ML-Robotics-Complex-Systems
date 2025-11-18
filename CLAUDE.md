@@ -4,10 +4,11 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Purpose
 
-This is a portfolio repository showcasing AI/ML research and complex systems engineering projects. The focus areas are:
+This is a portfolio repository showcasing AI/ML research, robotics engineering, and complex systems projects. The focus areas are:
 
 - **LLM Training, Finetuning & Evaluation**: Custom training pipelines, parameter-efficient finetuning, evaluation frameworks
 - **Multi-Agent Simulation & Agentic Systems**: Multi-agent environments, emergent behaviors, coordination mechanisms
+- **Robotics & Embodied AI**: Robot control systems, perception pipelines, motion planning, manipulation, embodied intelligence
 - **AI × Economics × Token Engineering**: Incentive structures, market dynamics, decentralized coordination
 - **Data Science for High-Dimensional & Dynamic Systems**: Advanced analytics, time-series analysis, causal inference
 
@@ -23,6 +24,7 @@ This is a portfolio repository showcasing AI/ML research and complex systems eng
 
 Projects in this repository typically use:
 - **ML/AI Frameworks**: PyTorch, Transformers (Hugging Face), JAX
+- **Robotics**: ROS/ROS2, MoveIt, Gazebo, PyBullet, Isaac Sim, robot control libraries
 - **Agent-Based Modeling**: Custom simulation frameworks
 - **Data Science**: NumPy, Pandas, scikit-learn
 - **Distributed Training**: Tools for scaling LLM training
